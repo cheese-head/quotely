@@ -1,5 +1,5 @@
 # Quotely
-Quotely is an experemental Java project using gradle, picocli, and docker. 
+Quotely is an experimental Java project using gradle, picocli, and docker. 
 
 ## Building
 
